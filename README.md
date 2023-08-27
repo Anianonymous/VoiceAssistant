@@ -38,7 +38,3 @@ Some example commands include:
 - "hello"
 - "how are you"
 - "good night"
-
-## Contribution
-
-Contributions are welcome! Please read the contributing guidelines to get started.
