@@ -22,5 +22,11 @@
             <artifactId>client-sdk</artifactId>
             <version>1.31.0</version>
         </dependency>
+        <dependency>
+            <groupId>com.microsoft.cognitiveservices.speech</groupId>
+            <artifactId>client-sdk</artifactId>
+            <version>1.31.0</version>
+        </dependency>
     </dependencies>
 </project>
+
