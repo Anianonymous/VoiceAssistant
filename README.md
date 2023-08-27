@@ -1,9 +1,4 @@
 # VoiceAssistant
-When you mention writing about a voice assistant in the `README.md` file, I assume you're looking for content to describe a voice assistant application in a project's README. Below is a sample `README.md` content tailored for a voice assistant application. You can modify it according to your application's specifics:
-
----
-
-# Voice Assistant Application
 
 ## Overview
 
@@ -47,7 +42,3 @@ Some example commands include:
 ## Contribution
 
 Contributions are welcome! Please read the contributing guidelines to get started.
-
----
-
-Remember to modify this template to fit the specifics of your project, adding or removing sections as necessary.
